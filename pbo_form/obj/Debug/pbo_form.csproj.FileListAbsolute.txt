@@ -1,0 +1,13 @@
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.csprojResolveAssemblyReference.cache
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.Form1.resources
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.Properties.Resources.resources
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.csproj.GenerateResource.cache
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.csproj.CoreCompileInputs.cache
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\bin\Debug\pbo_form.exe.config
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\bin\Debug\pbo_form.exe
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\bin\Debug\pbo_form.pdb
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.exe
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.pdb
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.Form_HP.resources
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.Form_login_HP.resources
+C:\Users\Henoch\source\repos\pbo_form\pbo_form\obj\Debug\pbo_form.Form2.resources
